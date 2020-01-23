@@ -1,0 +1,102 @@
+
+    {
+        "header1": 
+        {
+            "id":7, 
+            "name":"mainHeader",
+            "container":{"fluid": 0, "border": "1px solid #cccccc", "bgcolor":"#eeeeee"},
+            "rows":[
+                {
+                    "id": "1",
+                    "style":{"border":"", "borderColor":"#eee", "bgColor":""},
+                    "col":"0",
+                    "order":"1",
+                    "cols":[
+                        {
+                            "id": "1",
+                            "mobileClass":"col-sm-12",
+                            "tabletClass":"col-md-12",
+                            "deskClass":"col-lg-12",                                
+                            "style":{"border":"1px solid #eeeeee", "height":"300px", "backgroundColor":"#fff"},
+                            "order":"1"                                
+                        }                         
+                    ]
+                    
+                },
+                {
+                    "id": "2",
+                    "style":{"border":"", "borderColor":"#eee", "bgColor":""},
+                    "col":"0",
+                    "order":"2",
+                    "cols":[
+                        {
+                            "id": "1",
+                            "mobileClass":"col-sm-6",
+                            "tabletClass":"col-md-6",
+                            "deskClass":"col-lg-6",                                
+                            "style":{"border":"1px solid #eeeeee", "height":"300px", "backgroundColor":"#fff"},
+                            "order":"1"                                
+                        },
+                        {
+                            "id": "2",
+                            "mobileClass":"col-sm-6",
+                            "tabletClass":"col-md-6",
+                            "deskClass":"col-lg-6",
+                            "style":{"border":"1px solid #eeeeee", "height":"300px", "backgroundColor":"#fff"},
+                            "order":"1"                                
+                        }                           
+                    ]
+                }                   
+            ]
+        },
+        
+        "header2":
+        {
+            "id":7, 
+            "name":"mainHeader",
+            "container":{"fluid": 0, "border": "1px solid #cccccc", "bgcolor":"#eeeeee"},
+            "rows":[
+                {
+                    "id": "1",
+                    "style":{"border":"", "borderColor":"#eee", "bgColor":""},
+                    "col":"0",
+                    "order":"1",
+                    "cols":[
+                        {
+                            "id": "1",
+                            "mobileClass":"col-sm-12",
+                            "tabletClass":"col-md-12",
+                            "deskClass":"col-lg-12",                                
+                            "style":{"border":"1px solid #eeeeee", "height":"300px", "backgroundColor":"#fff"},
+                            "order":"1"                                
+                        }                         
+                    ]
+                    
+                },
+                {
+                    "id": "2",
+                    "style":{"border":"", "borderColor":"#eee", "bgColor":""},
+                    "col":"0",
+                    "order":"2",
+                    "cols":[
+                        {
+                            "id": "1",
+                            "mobileClass":"col-sm-6",
+                            "tabletClass":"col-md-6",
+                            "deskClass":"col-lg-6",                                
+                            "style":{"border":"1px solid #eeeeee", "height":"300px", "backgroundColor":"#fff"},
+                            "order":"1"                                
+                        },
+                        {
+                            "id": "2",
+                            "mobileClass":"col-sm-6",
+                            "tabletClass":"col-md-6",
+                            "deskClass":"col-lg-6",
+                            "style":{"border":"1px solid #eeeeee", "height":"300px", "backgroundColor":"#fff"},
+                            "order":"1"                                
+                        }                           
+                    ]
+                }                   
+            ]
+        }               
+    }

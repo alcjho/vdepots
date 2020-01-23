@@ -1,0 +1,16 @@
+{
+ 
+    "form1" :{
+        "style":{"backgroundColor": "#dddddd", "borderRadius":"5", "border":"1px solid #eeee"},
+        "className": "primary",
+        "height":"300",
+        "width":"100%"
+    },
+
+    "form2" :{
+        "style":{"backgroundColor": "#eeeeee", "borderRadius":"10", "border":"1px solid #eeee"},
+        "className": "form",
+        "height":"200",
+        "width":"100%"
+    } 
+}

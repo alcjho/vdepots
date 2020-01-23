@@ -1,0 +1,6 @@
+{
+    "apiserver":"http://localhost:3003",
+    "module_api_server":"http://localhost:3003/module/",
+    "apiKey":"abcdef1234567890",
+    "format":"json"
+}

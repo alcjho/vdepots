@@ -1,0 +1,11 @@
+
+{
+ 
+    "button1" :{
+        "style":{"backgroundColor": "#eeeeee", "borderRadius":"5", "border":"1px solid #eeee"},
+        "className": "primary",
+        "height":"50",
+        "width":"100%"
+    }
+ 
+}
